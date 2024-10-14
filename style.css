@@ -761,4 +761,8 @@ transform: scale(1.1);
         height: 550px;
     }
 
+    .footer {
+        padding: 5px;
+    }
+
 }
